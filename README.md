@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z890 AERO G, Intel Core Ultra 9 285K, 2x RX 6600 8GB AsRock, DUAL GPU
 
+<img width="1988" height="1186" alt="Overview" src="https://github.com/user-attachments/assets/ae5961a0-0a23-4346-948b-bf1b8b32a772" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.6.1)
